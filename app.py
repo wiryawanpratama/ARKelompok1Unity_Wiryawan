@@ -2,13 +2,17 @@ from flask import Flask, render_template, request, jsonify
 from pymongo import MongoClient
 from datetime import datetime
 import certifi
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 app = Flask(__name__)
 
 # =========================
 # MONGODB CONFIG
 # =========================
-uri = "REMOVED"
+uri = os.getenv("MONGO_URI")
 client = MongoClient(uri, tls=True, tlsCAFile=certifi.where())
 
 db = client['EduKitDB']
