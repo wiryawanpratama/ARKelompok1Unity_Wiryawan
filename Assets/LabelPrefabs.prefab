@@ -164,7 +164,6 @@ GameObject:
   - component: {fileID: 8344048070895231079}
   - component: {fileID: 3197433996767561996}
   - component: {fileID: 1285024349444466131}
-  - component: {fileID: 3771788561535251672}
   m_Layer: 0
   m_Name: LabelPrefabs
   m_TagString: Untagged
@@ -255,18 +254,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &3771788561535251672
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4698842603369927223}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a3f21dadfa046147a57cabe1bb56db0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &6500789489771729882
 GameObject:
   m_ObjectHideFlags: 0
@@ -278,7 +265,6 @@ GameObject:
   - component: {fileID: 7012014246886912330}
   - component: {fileID: 609743378905615752}
   - component: {fileID: 4894632559578936631}
-  - component: {fileID: 8286129453983797644}
   m_Layer: 0
   m_Name: Power
   m_TagString: Untagged
@@ -402,15 +388,3 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!114 &8286129453983797644
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6500789489771729882}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a3f21dadfa046147a57cabe1bb56db0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

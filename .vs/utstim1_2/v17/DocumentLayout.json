@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "F:\\Kuliah\\utstim1_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Kuliah\\utstim1_2\\Assets\\APIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\APIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Kuliah\\utstim1_2\\Assets\\LabelClick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LabelClick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Kuliah\\utstim1_2\\Assets\\Billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Kuliah\\utstim1_2\\Assets\\ARLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ARLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Kuliah\\utstim1_2\\Assets\\DescriptionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DescriptionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +35,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "APIManager.cs",
+              "DocumentMoniker": "F:\\Kuliah\\utstim1_2\\Assets\\APIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\APIManager.cs",
+              "ToolTip": "F:\\Kuliah\\utstim1_2\\Assets\\APIManager.cs",
+              "RelativeToolTip": "Assets\\APIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:57:12.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabelClick.cs",
+              "DocumentMoniker": "F:\\Kuliah\\utstim1_2\\Assets\\LabelClick.cs",
+              "RelativeDocumentMoniker": "Assets\\LabelClick.cs",
+              "ToolTip": "F:\\Kuliah\\utstim1_2\\Assets\\LabelClick.cs",
+              "RelativeToolTip": "Assets\\LabelClick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:57:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DescriptionManager.cs",
+              "DocumentMoniker": "F:\\Kuliah\\utstim1_2\\Assets\\DescriptionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\DescriptionManager.cs",
+              "ToolTip": "F:\\Kuliah\\utstim1_2\\Assets\\DescriptionManager.cs",
+              "RelativeToolTip": "Assets\\DescriptionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:53:40.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Billboard.cs",
               "DocumentMoniker": "F:\\Kuliah\\utstim1_2\\Assets\\Billboard.cs",
               "RelativeDocumentMoniker": "Assets\\Billboard.cs",
@@ -35,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ARLabel.cs",
               "DocumentMoniker": "F:\\Kuliah\\utstim1_2\\Assets\\ARLabel.cs",
               "RelativeDocumentMoniker": "Assets\\ARLabel.cs",
@@ -45,10 +100,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T09:47:52.865Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
