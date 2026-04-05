@@ -7,6 +7,7 @@ public class APIManager : MonoBehaviour
 {
     public GameObject panel;
     public TextMeshProUGUI textDesc;
+    public DescriptionManager descriptionManager; 
 
     public void GetData(string jenis, string komponen)
     {
@@ -15,26 +16,25 @@ public class APIManager : MonoBehaviour
 
     IEnumerator FetchData(string jenis, string komponen)
     {
-        panel.SetActive(true);
-        string url = "https://8af4-182-10-129-245.ngrok-free.app/api/get-detail/" + jenis + "/" + komponen;
+        
+        string url = "https://c289-182-10-130-155.ngrok-free.app/api/get-detail/"
+                     + jenis + "/" + komponen;
 
         UnityWebRequest www = UnityWebRequest.Get(url);
-
-        // Tambahkan baris ini agar ngrok skip halaman warning
         www.SetRequestHeader("ngrok-skip-browser-warning", "true");
-
         yield return www.SendWebRequest();
 
         if (www.result == UnityWebRequest.Result.Success)
         {
             Data data = JsonUtility.FromJson<Data>(www.downloadHandler.text);
-            textDesc.text = data.deskripsi;
+
+            // Kirim komponen + deskripsi ke DescriptionManager
+            descriptionManager.ShowDescription(data.komponen, data.deskripsi);
         }
         else
         {
-            textDesc.text = "Gagal ambil data";
+            descriptionManager.ShowDescription("Error", "Gagal ambil data");
             Debug.LogError("Error: " + www.error);
-            Debug.LogError("Response: " + www.downloadHandler.text);
         }
     }
 }
