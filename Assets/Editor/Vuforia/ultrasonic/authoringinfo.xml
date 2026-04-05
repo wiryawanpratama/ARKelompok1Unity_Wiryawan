@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="ultrasonic" targetId="6c234614998c4d0793156e641e615c69" version="14.0" toolVersion="v7.4.1" bbox="-0.0275 -0.0193 -0.00365885 0.0275 0.01225 0.0175102" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="ultrasonic" assemblyId="f876d3ee8525430ca67d424cc400ff96">
+        <Part name="ultrasonic" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\tugas\\utstim1_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\tugas\\utstim1_2\\Assets\\ARSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ARSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\tugas\\utstim1_2\\Assets\\APIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\APIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\tugas\\utstim1_2\\Assets\\DescriptionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DescriptionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\tugas\\utstim1_2\\Assets\\LabelClick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LabelClick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\tugas\\utstim1_2\\Assets\\ButtonScale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ButtonScale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\tugas\\utstim1_2\\Assets\\Billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\tugas\\utstim1_2\\Assets\\ARLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ARLabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARSelector.cs",
+              "DocumentMoniker": "F:\\tugas\\utstim1_2\\Assets\\ARSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\ARSelector.cs",
+              "ToolTip": "F:\\tugas\\utstim1_2\\Assets\\ARSelector.cs",
+              "RelativeToolTip": "Assets\\ARSelector.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:44:21.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonScale.cs",
+              "DocumentMoniker": "F:\\tugas\\utstim1_2\\Assets\\ButtonScale.cs",
+              "RelativeDocumentMoniker": "Assets\\ButtonScale.cs",
+              "ToolTip": "F:\\tugas\\utstim1_2\\Assets\\ButtonScale.cs",
+              "RelativeToolTip": "Assets\\ButtonScale.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:40:18.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIManager.cs",
+              "DocumentMoniker": "F:\\tugas\\utstim1_2\\Assets\\APIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\APIManager.cs",
+              "ToolTip": "F:\\tugas\\utstim1_2\\Assets\\APIManager.cs",
+              "RelativeToolTip": "Assets\\APIManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:57:12.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabelClick.cs",
+              "DocumentMoniker": "F:\\tugas\\utstim1_2\\Assets\\LabelClick.cs",
+              "RelativeDocumentMoniker": "Assets\\LabelClick.cs",
+              "ToolTip": "F:\\tugas\\utstim1_2\\Assets\\LabelClick.cs",
+              "RelativeToolTip": "Assets\\LabelClick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:57:46.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DescriptionManager.cs",
+              "DocumentMoniker": "F:\\tugas\\utstim1_2\\Assets\\DescriptionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\DescriptionManager.cs",
+              "ToolTip": "F:\\tugas\\utstim1_2\\Assets\\DescriptionManager.cs",
+              "RelativeToolTip": "Assets\\DescriptionManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T16:53:40.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "F:\\tugas\\utstim1_2\\Assets\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Billboard.cs",
+              "ToolTip": "F:\\tugas\\utstim1_2\\Assets\\Billboard.cs",
+              "RelativeToolTip": "Assets\\Billboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:04:01.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ARLabel.cs",
+              "DocumentMoniker": "F:\\tugas\\utstim1_2\\Assets\\ARLabel.cs",
+              "RelativeDocumentMoniker": "Assets\\ARLabel.cs",
+              "ToolTip": "F:\\tugas\\utstim1_2\\Assets\\ARLabel.cs",
+              "RelativeToolTip": "Assets\\ARLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T09:47:52.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
