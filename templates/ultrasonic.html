@@ -217,13 +217,15 @@
 
     <script>
       let currentIndex = 1;
-      const maxComponents = 4;
+      const maxComponents = 6;
 
       const componentNames = {
         1: "Transmitter (Pemancar Gelombang)",
         2: "Receiver (Penerima Gelombang)",
-        3: "Pin VCC & GND (Daya)",
-        4: "Pin Trigger & Echo",
+        3: "Pin VCC",
+        4: "Pin Ground",
+        5: "Pin Trigger",
+        6: "Pin Echo",
       };
 
       function changeComponent(step) {
